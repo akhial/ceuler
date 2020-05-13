@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-    unsigned long p = 1;
-    unsigned long n = 1;
-    unsigned long o = 0;
-    unsigned long s = 0;
+    long long p = 1;
+    long long n = 1;
+    long long o = 0;
+    long long s = 0;
 
     while (n < 4000000) {
         o = n;

@@ -6,7 +6,7 @@ static int ndiv(int);
 int main(void) {
     int i = 1;
     int n = 0;
-    long r;
+    int r;
 
     while (n < 500) {
         r = (i*(i + 1))/2;
